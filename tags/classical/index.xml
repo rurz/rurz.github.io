@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>classical on Alejandro R. Urzúa</title>
-    <link>http://example.com/tags/classical/</link>
+    <link>https://rurz.github.io/tags/classical/</link>
     <description>Recent content in classical on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://example.com/tags/classical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/tags/classical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>There are something like classical deaths and revivals, just like in the atom-field interactions?</title>
-      <link>http://example.com/post/classical_revivals/</link>
+      <link>https://rurz.github.io/post/classical_revivals/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.com/post/classical_revivals/</guid>
+      <guid>https://rurz.github.io/post/classical_revivals/</guid>
       <description>Maybe it&amp;rsquo;s a tricky question
 $$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$$</description>
     </item>
