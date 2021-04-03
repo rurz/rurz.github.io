@@ -14,7 +14,7 @@
       
       <guid>https://rurz.github.io/post/classical_revivals/</guid>
       <description>Maybe it&amp;rsquo;s a tricky question
-$$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$$</description>
+$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$</description>
     </item>
     
   </channel>
