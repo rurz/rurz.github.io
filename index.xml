@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Finding classical deaths and revivals, like in the atom-field interaction?</title>
+      <link>https://rurz.github.io/post/classical_revivals/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/post/classical_revivals/</guid>
+      <description>Maybe it&amp;rsquo;s a tricky question
+$$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$$</description>
+    </item>
+    
+    <item>
       <title>Polychromatic rotations in pixellated screens</title>
       <link>https://rurz.github.io/project/poly_rotations/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
@@ -17,22 +27,14 @@
     </item>
     
     <item>
-      <title>There are something like classical deaths and revivals, just like in the atom-field interactions?</title>
-      <link>https://rurz.github.io/post/classical_revivals/</link>
-      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rurz.github.io/post/classical_revivals/</guid>
-      <description>Maybe it&amp;rsquo;s a tricky question
-$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$</description>
-    </item>
-    
-    <item>
       <title></title>
       <link>https://rurz.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rurz.github.io/about/</guid>
-      <description>About me Hey you, all! So you want to know a little about me, well this is a short story because my work represents me. I&amp;rsquo;m an early researcher on Theoretical Physics signed at the Optics Coordination of the National Institute of Astrophysics, Optics and Electronics (INAOE in Spanish for short). For my educational background I have the following achievements  Bachelor in Physics at the Universidad Autónoma del Estado de Morelos Master in Physical Sciences at the Universidad Nacional Nacional Autónoma de México PhD in Optics at the Instituto Nacional de Astrofísica, Óptica y Electrónica  </description>
+      <description>About me Hey you, all! So you want to know a little about me, well this is a short story because my work represents me.
+I&amp;rsquo;m an early researcher on Theoretical Physics signed at the Optics Coordination of the National Institute of Astrophysics, Optics and Electronics (INAOE in Spanish for short). For my educational background I have the following achievements
+ Bachelor in Physics at the Universidad Autónoma del Estado de Morelos Master in Physical Sciences at the Universidad Nacional Nacional Autónoma de México PhD in Optics at the Instituto Nacional de Astrofísica, Óptica y Electrónica  </description>
     </item>
     
   </channel>
