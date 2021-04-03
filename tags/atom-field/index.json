@@ -1,0 +1,10 @@
+[
+    {
+        "ref": "https:rurz.github.io/post/classical_revivals/",
+        "title": "There are something like classical deaths and revivals, just like in the atom-field interactions?",
+        "section": "post",
+        "tags": ["classical","quantum","atom-field","analogies"],
+        "date" : "2021.03.27",
+        "body": "Maybe it\u0026rsquo;s a tricky question\n$$\\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$$\n"
+    }
+]

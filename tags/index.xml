@@ -2,80 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Alejandro R. Urzúa</title>
-    <link>https://rurz.github.io/tags/</link>
+    <link>https:rurz.github.io/tags/</link>
     <description>Recent content in Tags on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https:rurz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>analogies</title>
-      <link>https://rurz.github.io/tags/analogies/</link>
+      <link>https:rurz.github.io/tags/analogies/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/analogies/</guid>
+      <guid>https:rurz.github.io/tags/analogies/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>atom-field</title>
-      <link>https://rurz.github.io/tags/atom-field/</link>
+      <link>https:rurz.github.io/tags/atom-field/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/atom-field/</guid>
+      <guid>https:rurz.github.io/tags/atom-field/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>classical</title>
-      <link>https://rurz.github.io/tags/classical/</link>
+      <link>https:rurz.github.io/tags/classical/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/classical/</guid>
+      <guid>https:rurz.github.io/tags/classical/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>discrete</title>
-      <link>https://rurz.github.io/tags/discrete/</link>
+      <link>https:rurz.github.io/tags/discrete/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/discrete/</guid>
+      <guid>https:rurz.github.io/tags/discrete/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>pixellated</title>
-      <link>https://rurz.github.io/tags/pixellated/</link>
+      <link>https:rurz.github.io/tags/pixellated/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/pixellated/</guid>
+      <guid>https:rurz.github.io/tags/pixellated/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>polychromatic</title>
-      <link>https://rurz.github.io/tags/polychromatic/</link>
+      <link>https:rurz.github.io/tags/polychromatic/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/polychromatic/</guid>
+      <guid>https:rurz.github.io/tags/polychromatic/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>quantum</title>
-      <link>https://rurz.github.io/tags/quantum/</link>
+      <link>https:rurz.github.io/tags/quantum/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/quantum/</guid>
+      <guid>https:rurz.github.io/tags/quantum/index.json</guid>
       <description></description>
     </item>
     
     <item>
       <title>quaternions</title>
-      <link>https://rurz.github.io/tags/quaternions/</link>
+      <link>https:rurz.github.io/tags/quaternions/index.json</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rurz.github.io/tags/quaternions/</guid>
+      <guid>https:rurz.github.io/tags/quaternions/index.json</guid>
       <description></description>
     </item>
     
