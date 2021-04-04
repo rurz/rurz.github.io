@@ -76,7 +76,7 @@
         
 
         
-            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+            <script type="text/javascript" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
         
 
         
@@ -119,8 +119,6 @@
                             
                                 <li class="navbar-icon"><a href="https://twitter.com/ARUrzua/"><i class="fab fa-twitter"></i></a></li>
                             
-                                <li class="navbar-icon"><a href="https://www.linkedin.com/in/arurz/"><i class="fab fa-linkedin"></i></a></li>
-                            
                         </ul>
                     
                 </div>
@@ -132,24 +130,34 @@
 
     <div>
         <h2>Finding classical deaths and revivals, like in the atom-field interaction?</h2>
-        <h5>March 27, 2021</h5>
+        <h5>April 3, 2021</h5>
         
 <a href="https://rurz.github.io/tags/classical"><kbd class="item-tag">classical</kbd></a>
 
 <a href="https://rurz.github.io/tags/quantum"><kbd class="item-tag">quantum</kbd></a>
-
-<a href="https://rurz.github.io/tags/atom-field"><kbd class="item-tag">atom-field</kbd></a>
 
 <a href="https://rurz.github.io/tags/analogies"><kbd class="item-tag">analogies</kbd></a>
 
 
     </div>
 
-    <div align="start" class="content"><p>Maybe it&rsquo;s a tricky question to put a link between the diametrical phenomenology of classical and quantum mechanics; but, for the most of the history, we use the first as an archetype to extend the comprehension of the second. Working around a superb-classical system like a set of \(N\) coupled harmonic oscillators</p>
-<p>$$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t),$$</p>
+    <div align="start" class="content"><p>Maybe it&rsquo;s a tricky task to put a link between the diametrical phenomenology of classical and quantum mechanics; but, for the most of the history, we use the first as an archetype to extend the comprehension of the second. Working around a superb-classical system, like a set of \(N\) coupled harmonic oscillators</p>
+<p>$$(1)\qquad \ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t),$$</p>
 <p>we can solve the set of equation with a plethora of methods developed in the last centuries. The last year, I took a look on this problem at <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>, nowadays I was trying to find the dynamical energy exchange between oscillators, just to arrive a peculiar phenomena of the individual amplitude evolution of \(q_{n}(t)\), who in turn seems to be the mimic of the atom-field interaction in quantum mechanics, better known as the Jaynnes-Cummings system</p>
-<p>$$\hat{H} = \omega_{f} \hat{a}\hat{a}^{\dagger} + \omega_{a} \hat{\sigma}_{z} + \Omega\left(\hat{a}\hat{\sigma}_{+} + \hat{a}^{\dagger}\hat{\sigma}_{-}\right)$$</p>
-<p><img src="/kravAmp.png" alt="krav"></p>
+<p>$$(2)\quad \hat{H} = \omega_{f} \hat{a}\hat{a}^{\dagger} + \omega_{a} \hat{\sigma}_{z} + \Omega\left(\hat{a}\hat{\sigma}_{+} + \hat{a}^{\dagger}\hat{\sigma}_{-}\right).$$</p>
+<p>Of course, the analogy is established when a particular realization of the set of equations (1) is given. The last fulfills when the coefficients \(k\)&rsquo;s belongs to the elements of a certain representation of the \(su(2)\) algebra; in particular, we arrive to the eigenfunctions of the discrete and finite harmonic oscillator, namely <em>Kravchuk functions</em>.</p>
+<p>To put on the fast-lane, we have</p>
+<ol>
+<li>The solution of (1) with a set of initial conditions at positions \(\require{braket} \ket{0} = (1, 0, \cdots, 0)^{T}\). The initial conditions at velocities are zero, and the coupling coefficients are depicted as in <sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup>.</li>
+</ol>
+<p><img src="/kamp.png" alt="Krav"></p>
+<ol>
+<li>The solution of (2) under the evolution of the Schrödinger equation with the initial state as a coherent function in Fock space \(\require{braket} \psi_{0} = \ket{\alpha = 5\mathrm{i}}\)</li>
+</ol>
+<p><img src="/atom.png" alt="atom"></p>
+<p>At this very initial state, I can only relate the envelopment of the figures, but in some deep analysis I (maybe) can relate the mathematical structure and physical insights of the two systems, who in turn, represent different phenomena, regardless their similitude in their patterns.</p>
+<p>More work to do&hellip;</p>
+<p>Github gist for the code developed: <a href="https://git.io/JYDq3">https://git.io/JYDq3</a></p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
