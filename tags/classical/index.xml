@@ -13,8 +13,9 @@
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>https://rurz.github.io/post/classical_revivals/</guid>
-      <description>Maybe it&amp;rsquo;s a tricky question
-$$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t)$$</description>
+      <description>Maybe it&amp;rsquo;s a tricky question to put a link between the diametrical phenomenology of classical and quantum mechanics; but, for the most of the history, we use the first as an archetype to extend the comprehension of the second. Working around a superb-classical system like a set of \(N\) coupled harmonic oscillators
+$$\ddot{q_{i}}(t) = -(k_{i} + k_{i+1})q_{i}(t) + k_{i+1}q_{i+1}(t) + k_{i}q_{i-1}(t),$$
+we can solve the set of equation with a plethora of methods developed in the last centuries.</description>
     </item>
     
   </channel>
