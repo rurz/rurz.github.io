@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intrinsic decoherence in the three-mode coupled harmonic oscillators</title>
+      <link>https://rurz.github.io/post/intrinsic_decoh/</link>
+      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/post/intrinsic_decoh/</guid>
+      <description>Idea: A three-mode coupled harmonic oscillators have a Hamiltonian in the form
+$$(1)\qquad\hat{H} = \frac{1}{2}\sum\limits_{i = 1}^{3}\hat{p}_{k}^{2} + \sum\limits_{j&amp;lt;k}^{3}g_{j,k}\hspace{5px} \hat{q}_{j}\hat{q}_{k},$$
+where the coupling strengths \(g_{j,k}\) are time-independent.
+Now, there exist a framework1 for ripping off the non-diagonal terms in (1) by performing an angle-dependent unitary transformation \(\hat{T}(\theta_{j,k})\). Given that last, we can address the problem to calculate the intrinsic decoherence of the system for the master equation
+$$(2)\qquad \dot{\rho} = -\mathrm{i}\left[\hat{H},\rho\right] + 2\gamma\left(2\hat{H}\rho\hat{H} - \hat{H}^{2}\rho - \rho\hat{H}^{2}\right),$$</description>
+    </item>
+    
     <item>
       <title>Finding classical deaths and revivals, like in the atom-field interaction?</title>
       <link>https://rurz.github.io/post/classical_revivals/</link>
