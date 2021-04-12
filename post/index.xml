@@ -6,7 +6,18 @@
     <description>Recent content in Posts on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 04 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simple \(\LaTeX\) template for a letter with a beautiful font</title>
+      <link>https://rurz.github.io/post/tex_letter_tmpl/</link>
+      <pubDate>Mon, 12 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/post/tex_letter_tmpl/</guid>
+      <description>This \(\LaTeX\) template have the aim to serve as a simple letter, it is formatted with left-right columns for the details, and the core is centered.
+Characteristics:
+ Uses the beautiful Fontin letter font type \(\rightarrow\) (https://www.exljbris.com/fontin.html) Admits a background image The space skips between elements can be customized, look at the \newlfmPcommands It is totally intuitive, look at the code and look at the rendered sample below \(\downarrow\)   You can download the template right here \(\rightarrow\) Download me!</description>
+    </item>
+    
     <item>
       <title>Intrinsic decoherence in the three-mode coupled harmonic oscillators</title>
       <link>https://rurz.github.io/post/intrinsic_decoh/</link>
