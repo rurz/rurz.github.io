@@ -5,7 +5,7 @@
 
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Tags</title>
+        <title>A seemly definition of the Kravchuk function on JuliaLang</title>
         
             <link rel="icon" href="https://rurz.github.io/favicon.ico">
         
@@ -72,9 +72,6 @@
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.82.0" />
         
-            <link href="/tags/index.xml" rel="alternate" type="application/rss&#43;xml" title="Alejandro R. Urzúa" />
-            <link href="/tags/index.xml" rel="feed" type="application/rss&#43;xml" title="Alejandro R. Urzúa" />
-        
 
         
 
@@ -92,7 +89,7 @@
         <nav class="navbar navbar-default navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">
-                    <a class="navbar-brand visible-xs" href="#">Tags</a>
+                    <a class="navbar-brand visible-xs" href="#">A seemly definition of the Kravchuk function on JuliaLang</a>
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
@@ -131,24 +128,42 @@
 
 <main>
 
-    <h2>Tags</h2>
+    <div>
+        <h2>A seemly definition of the Kravchuk function on JuliaLang</h2>
+        <h5>April 15, 2021</h5>
+        
+<a href="https://rurz.github.io/tags/julia"><kbd class="item-tag">julia</kbd></a>
 
-     <div class="item">
+<a href="https://rurz.github.io/tags/algorithms"><kbd class="item-tag">algorithms</kbd></a>
 
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/tags/algorithms/">algorithms</a></h4>
-    <h5>April 15, 2021</h5>
-    
+<a href="https://rurz.github.io/tags/computation"><kbd class="item-tag">computation</kbd></a>
 
 
+    </div>
+
+    <div align="start" class="content"><h3 id="intro">Intro</h3>
+<p>I&rsquo;ve been used <a href="https://julialang.org/">Julia</a> on a daily basis for almost a year. Since the start one of my purposes was to get the Kravchuk function \(\Phi_{n}^{(j)}(q) \) correctly for at least 64 points, that is \(j = 32\). Since I came from Python and there the <code>mpmath</code> returns Hypergeometric functions without hesitation, I look for some like this in Julia. <code>HypergeometricFunctions.jl</code> is the (only?) package to bring the hyperthing \(_2F_1\). The Kravchuk function is defined as</p>
+<p>$$(1)\qquad\qquad\Phi_{n}^{(j)}(q) = \frac{(-1)^{n}}{2^{j}}\sqrt{\binom{2j}{n}\binom{2j}{j+q}}k_{n}^{(2j)}(q),$$</p>
+<p>where \(k_{n}^{(2j)}(q) = _2F_1(-n, -q, -2j, 2)\). This last function is the principal issue when we define (1), because the implementation on the package seems to have some specific issues.</p>
+<h4 id="1-undefinedness-at-the-corner-when-n--q--2j">1. Undefinedness at the corner when \(n = q = 2j\)</h4>
+<p>When we define (1), we use <code>2F1General2</code> who is a polyalgorithm on  <code>HypergeometricFunctions.jl</code>, his purpose is to select the appropriate subroutine given the combination of parameters \({n, q}\). But when we evaluate a matrix of (1) in the ranges of the parameters, at the corner a NAN appears. The first solution was to create a conditional, since because this point is the reflection of the evaluation at \(n = q = 0\).</p>
+<p>This last permits us to treat calculations fairly enough to reach \(j = 20\), above this value, rises another issue.</p>
+<h4 id="2-bigger-j-gives-bigger-problems">2. Bigger \(j\) gives bigger problems</h4>
+<p>When \(j &gt; 20\) we experience inconsistencies, overflows and dumped cores. This  seems to be caused by the parameters \(n\) and \(q\), but principally \(n\). I think <code>2F1General2</code> don&rsquo;t play very well with the combination of values. So, we faced a <code>BigFloat</code> problem, easily solved when we identify what&rsquo;s the matter. So we do <code>  2F1General2(BigFloat(-n), BigFloat(-q), -2j, 2)</code>. This solves the problem, well, partially solves the problem, because we can reach \(j = 128\) without problems, but the good behavior falls quickly above this value.</p>
+<p>And, to avoid problems with bigger \(n\) we can use the mirror symmetry of (1), this is, when \(0 \le n \le j\) we use (1), but for \(j &lt; n \le 2j\) we implement</p>
+<p>$$\Phi_{2j-n}^{(2j)}(q) = (-1)^{q}\Phi_{n}^{(2j)}(q),$$</p>
+<p>who also solves the problem at section 1, avoiding to use a conditional over the hypergeometric.</p>
+<hr>
+<p>This quantity of points correctly obtained are fairly enough for the moment, because the purpose for obtain Kravchuk functions with at least (j = 128\), is to use it in the unitary rotation of polychromatic pixelated images<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> . The implementation is available at the GitHub repo -&gt; <a href="https://github.com/rurz/VisitingICF2021">https://github.com/rurz/VisitingICF2021</a></p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>Urzúa, A. R., &amp; Wolf, K. B. (2016). Unitary rotation and gyration of pixelated images on rectangular screens. Journal of the Optical Society of America A, 33(4), 642. <a href="https://doi.org/10.1364/josaa.33.000642">https://doi.org/10.1364/josaa.33.000642</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 </div>
-  <div class="item">
 
     
     
@@ -156,77 +171,8 @@
 
     
     
-
-    <h4><a href="/tags/computation/">computation</a></h4>
-    <h5>April 15, 2021</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/tags/julia/">julia</a></h4>
-    <h5>April 15, 2021</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/tags/latex/">LaTeX</a></h4>
-    <h5>April 12, 2021</h5>
-    
-
-
-</div>
-  <div class="item">
-
-    
-    
-    
-
-    
-    
-
-    <h4><a href="/tags/typesetting/">typesetting</a></h4>
-    <h5>April 12, 2021</h5>
-    
-
-
-</div>
- 
 
 </main>
-
-
-
-<div class="pages">
-
-    
-
-    
-        <a class="icon pages-icon" href="/tags/page/2/" rel="next">
-            <i class="fa fa-arrow-right"></i>
-        </a>
-    
-
-</div>
-
-
 
         <footer>
             <p class="copyright text-muted">© All rights reserved. Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/calintat/minimal">Minimal</a>.</p>

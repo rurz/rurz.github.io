@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>algorithms on Alejandro R. Urzúa</title>
+    <link>https://rurz.github.io/tags/algorithms/</link>
+    <description>Recent content in algorithms on Alejandro R. Urzúa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/tags/algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A seemly definition of the Kravchuk function on JuliaLang</title>
+      <link>https://rurz.github.io/post/kravchuk_issues_julia/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/post/kravchuk_issues_julia/</guid>
+      <description>Intro I&amp;rsquo;ve been used Julia on a daily basis for almost a year. Since the start one of my purposes was to get the Kravchuk function \(\Phi_{n}^{(j)}(q) \) correctly for at least 64 points, that is \(j = 32\). Since I came from Python and there the mpmath returns Hypergeometric functions without hesitation, I look for some like this in Julia. HypergeometricFunctions.jl is the (only?) package to bring the hyperthing \(_2F_1\).</description>
+    </item>
+    
+  </channel>
+</rss>
