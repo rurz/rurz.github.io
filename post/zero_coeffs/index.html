@@ -143,7 +143,7 @@
 
     <div align="start" class="content"><p>Imagine you have a three-term recursion like this one</p>
 <p>$$ g_{k+1} = A(l,k) g_{k} + B(l,k) g_{k-1},$$</p>
-<p>where the \(g\)&rsquo;s are items of the recursion, and \(A(l, k)\) and \(B(l, k)\) are coefficients who depends on some index \(l\). When we compute the recursion, the algorithm expects that the previous items are already calculated, but imagine this</p>
+<p>where the \(g\)&rsquo;s are items of the recursion, and \(A(l, k)\) and \(B(l, k)\) are coefficients who depends on some parameter \(l\) at index \(k\). When we compute the recursion, the algorithm expects that the previous items are already calculated, but imagine this</p>
 <pre><code>g[1] = &quot;some initial function&quot;
 
 for k in 1:N
