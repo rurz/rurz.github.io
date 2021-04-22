@@ -146,7 +146,7 @@
 <p>$$(1)\qquad\qquad\Phi_{n}^{(j)}(q) = \frac{(-1)^{n}}{2^{j}}\sqrt{\binom{2j}{n}\binom{2j}{j+q}}k_{n}^{(2j)}(q),$$</p>
 <p>where \(k_{n}^{(2j)}(q) = _2F_1(-n, -q, -2j, 2)\). This last function is the principal issue when we define (1), because the implementation on the package seems to have some specific issues.</p>
 <h4 id="1-undefinedness-at-the-corner-when-n--q--2j">1. Undefinedness at the corner when \(n = q = 2j\)</h4>
-<p>When we define (1), we use <code>2F1General2</code> who is a polyalgorithm on  <code>HypergeometricFunctions.jl</code>, his purpose is to select the appropriate subroutine given the combination of parameters \({n, q}\). But when we evaluate a matrix of (1) in the ranges of the parameters, at the corner a NAN appears. The first solution was to create a conditional, since because this point is the reflection of the evaluation at \(n = q = 0\).</p>
+<p>When we define (1), we use <code>2F1General2</code> who is a polyalgorithm on  <code>HypergeometricFunctions.jl</code>, his purpose is to select the appropriate subroutine given the combination of parameters \({n, q}\). But when we evaluate a matrix of (1) in the ranges of the parameters, at the corner a NaN appears. The first solution was to create a conditional, since because this point is the reflection of the evaluation at \(n = q = 0\).</p>
 <p>This last permits us to treat calculations fairly enough to reach \(j = 20\), above this value, rises another issue.</p>
 <h4 id="2-bigger-j-gives-bigger-problems">2. Bigger \(j\) gives bigger problems</h4>
 <p>When \(j &gt; 20\) we experience inconsistencies, overflows and dumped cores. This  seems to be caused by the parameters \(n\) and \(q\), but principally \(n\). I think <code>2F1General2</code> don&rsquo;t play very well with the combination of values. So, we faced a <code>BigFloat</code> problem, easily solved when we identify what&rsquo;s the matter. So we do <code>  2F1General2(BigFloat(-n), BigFloat(-q), -2j, 2)</code>. This solves the problem, well, partially solves the problem, because we can reach \(j = 128\) without problems, but the good behavior falls quickly above this value.</p>
@@ -154,7 +154,7 @@
 <p>$$\Phi_{2j-n}^{(2j)}(q) = (-1)^{q}\Phi_{n}^{(2j)}(q),$$</p>
 <p>who also solves the problem at section 1, avoiding to use a conditional over the hypergeometric.</p>
 <hr>
-<p>This quantity of points correctly obtained are fairly enough for the moment, because the purpose for obtain Kravchuk functions with at least (j = 128\), is to use it in the unitary rotation of polychromatic pixelated images<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> . The implementation is available at the GitHub repo -&gt; <a href="https://github.com/rurz/VisitingICF2021">https://github.com/rurz/VisitingICF2021</a></p>
+<p>This quantity of points correctly obtained are fairly enough for the moment, because the purpose for obtain Kravchuk functions with at least \(j = 128\), is to use it in the unitary rotation of polychromatic pixelated images<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> . The implementation is available at the GitHub repo -&gt; <a href="https://github.com/rurz/VisitingICF2021">https://github.com/rurz/VisitingICF2021</a></p>
 <section class="footnotes" role="doc-endnotes">
 <hr>
 <ol>
@@ -167,6 +167,30 @@
 
     
     
+    
+        <h4 class="page-header">Related</h4>
+         <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/zero_coeffs/">When zero-coefficients don&#39;t the recursions terms</a></h4>
+    <h5>April 22, 2021</h5>
+    
+<a href="https://rurz.github.io/tags/julia"><kbd class="item-tag">julia</kbd></a>
+
+<a href="https://rurz.github.io/tags/algorithms"><kbd class="item-tag">algorithms</kbd></a>
+
+<a href="https://rurz.github.io/tags/computation"><kbd class="item-tag">computation</kbd></a>
+
+
+
+</div>
+ 
     
 
     
