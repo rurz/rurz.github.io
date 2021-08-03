@@ -6,7 +6,20 @@
     <description>Recent content on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[New Preprint] Intrinsic decoherence dynamics in the three-coupled harmonic oscillators interaction</title>
+      <link>https://rurz.github.io/post/intrinsic_paper/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/post/intrinsic_paper/</guid>
+      <description>Some time ago I put an idea on the decoherence drive on a coupled system of three interacting quantum harmonic oscillators, this works is in collaboration with Dr. Héctro M. Moya-Cessa. Now, we have submitted the full paper on the arXiv preprint server, and a mirror on ResearchGate.
+ Intrinsic decoherence dynamics in the three-coupled harmonic oscillators interaction
+Alejandro R. Urzúa, Héctor M. Moya-Cessa
+[arXiv] [ResearchGate]
+ Abstract: Applying the Milburn equation to describe intrinsic decoherence, we study the interaction of three-coupled quantum harmonic oscillators or quantized fields.</description>
+    </item>
+    
     <item>
       <title>When zero-coefficients don&#39;t lead the recursions terms</title>
       <link>https://rurz.github.io/post/zero_coeffs/</link>

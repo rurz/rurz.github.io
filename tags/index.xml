@@ -6,7 +6,34 @@
     <description>Recent content in Tags on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 03 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rurz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>article</title>
+      <link>https://rurz.github.io/tags/article/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/tags/article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classical</title>
+      <link>https://rurz.github.io/tags/classical/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/tags/classical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quantum</title>
+      <link>https://rurz.github.io/tags/quantum/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://rurz.github.io/tags/quantum/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>algorithms</title>
       <link>https://rurz.github.io/tags/algorithms/</link>
@@ -53,15 +80,6 @@
     </item>
     
     <item>
-      <title>classical</title>
-      <link>https://rurz.github.io/tags/classical/</link>
-      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rurz.github.io/tags/classical/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>idea</title>
       <link>https://rurz.github.io/tags/idea/</link>
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
@@ -76,15 +94,6 @@
       <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://rurz.github.io/tags/open-problem/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>quantum</title>
-      <link>https://rurz.github.io/tags/quantum/</link>
-      <pubDate>Sun, 04 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://rurz.github.io/tags/quantum/</guid>
       <description></description>
     </item>
     
