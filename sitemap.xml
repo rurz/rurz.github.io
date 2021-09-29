@@ -2,93 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rurz.github.io/post/intrinsic_paper/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/docs/example-doc/chapter-1/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/tags/article/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/docs/example-doc/nested-chapter/chapter-1/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/tags/classical/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/docs/example-doc/chapter-2/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/post/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/docs/example-doc/nested-chapter/chapter-2/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/tags/quantum/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/docs/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/tags/</loc>
-    <lastmod>2021-08-03T00:00:00+00:00</lastmod>
+    <loc>/docs/example-doc/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/tags/algorithms/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <loc>/docs/example-doc/nested-chapter/</loc>
+    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://rurz.github.io/tags/computation/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <loc>/authors/example-author/</loc>
   </url><url>
-    <loc>https://rurz.github.io/tags/julia/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <loc>/authors/author/</loc>
   </url><url>
-    <loc>https://rurz.github.io/post/zero_coeffs/</loc>
-    <lastmod>2021-04-22T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
   </url><url>
-    <loc>https://rurz.github.io/post/kravchuk_issues_julia/</loc>
-    <lastmod>2021-04-15T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://rurz.github.io/tags/latex/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <loc>/authors/hugo-authors/</loc>
   </url><url>
-    <loc>https://rurz.github.io/post/tex_letter_tmpl/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
+    <loc>/series/</loc>
   </url><url>
-    <loc>https://rurz.github.io/tags/typesetting/</loc>
-    <lastmod>2021-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/idea/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/post/intrinsic_decoh/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/open-problem/</loc>
-    <lastmod>2021-04-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/analogies/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/post/classical_revivals/</loc>
-    <lastmod>2021-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/array/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/energy/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/project/masses_array/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/group-theory/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/project/su31_phase/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/project/poly_rotations/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/project/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/tags/transformations/</loc>
-    <lastmod>2021-04-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://rurz.github.io/about/</loc>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://rurz.github.io/categories/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
