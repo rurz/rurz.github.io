@@ -3,41 +3,46 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-doc/chapter-1/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/authors/author/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-doc/nested-chapter/chapter-1/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/authors/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-doc/chapter-2/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/categories/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-doc/nested-chapter/chapter-2/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/tags/computational/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/posts/gibbs-phenomena-in-signals/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-doc/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/series/mathematical-optics/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docs/example-doc/nested-chapter/</loc>
-    <lastmod>2020-10-16T00:00:00+00:00</lastmod>
+    <loc>/categories/mathematics/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/categories/physics/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/series/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/signal-analysis/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-10-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/authors/example-author/</loc>
   </url><url>
-    <loc>/authors/author/</loc>
-  </url><url>
-    <loc>/authors/</loc>
-  </url><url>
-    <loc>/categories/</loc>
-  </url><url>
     <loc>/authors/hugo-authors/</loc>
-  </url><url>
-    <loc>/series/</loc>
-  </url><url>
-    <loc>/tags/</loc>
   </url>
 </urlset>
