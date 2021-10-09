@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>physics - Tag - Alejandro R. Urzúa</title>
+        <link>/tags/physics/</link>
+        <description>physics - Tag - Alejandro R. Urzúa</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 08 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/physics/" rel="self" type="application/rss+xml" /><item>
+    <title>Gibss phenomena in one-dimensional signals</title>
+    <link>/gibbs-phenomena-in-signals/</link>
+    <pubDate>Fri, 08 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/gibbs-phenomena-in-signals/</guid>
+    <description><![CDATA[1 Introduction It is well known that a well suitable one-dimensional signal (or function) in $\mathcal{L}^{2}$ can be expanded and encoded in the coefficients of the Fourier series $\mathbb{R}$
+2 Advances 2.1 Two-dimensional fields There&rsquo;s
+2.2 Final thoughts Another]]></description>
+</item></channel>
+</rss>
