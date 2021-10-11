@@ -7,8 +7,7 @@ Currently I'm enrolled as **_Associated Researcher_** in the **Optics Coordinati
 
 I hold a Physical Sciences Master's Degree (2014) given by the _National Autonomus University of Mexico_, and a Doctorate in Physics (2016) given by the _National Institute of Astrophysics, Optics and Electronics_.
 
-| ![Im a researcher](https://phdcomics.com/comics/archive/phd021717s.gif) |
-| :----------------------------------------------------------: |
-|                           <u></u>                            |
-| Credits: [PhD Comics](https://phdcomics.com/comics.php?f=1924) |
+---
+
+{{< figure src = https://phdcomics.com/comics/archive/phd021717s.gif title = "Academia, hum" >}}
 
