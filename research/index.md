@@ -1,6 +1,18 @@
 # Research Overview
 
 
-##### My principal research topic is the crosspath of _quantum_ and _classical mechanics_, more specially in _quantum optics_. I also do research in _mathematical optics_, studying discrete and finite systems.
+## Classical and quantum mechanics fundamentals
 
+* Urzúa, A. R., Ramos-Prieto, I., Soto-Eguibar, F., & Moya-Cessa, H.  (2020). Dynamical analysis of mass–spring models using Lie algebraic  methods. In Physica A: Statistical Mechanics and its Applications (Vol.  540, p. 123193). Elsevier BV.  https://doi.org/10.1016/j.physa.2019.123193
+* Ramos-Prieto, I., Urzúa-Pineda, A. R., Soto-Eguibar, F., &  Moya-Cessa, H. M. (2018). KvN mechanics approach to the time-dependent  frequency harmonic oscillator. In Scientific Reports (Vol. 8, Issue 1).  Springer Science and Business Media LLC.  https://doi.org/10.1038/s41598-018-26759-w
+* Urzúa, A. R., Ramos-Prieto, I., Fernández-Guasti, M., & Moya-Cessa,  H. M. (2019). Solution to the Time-Dependent Coupled Harmonic  Oscillators Hamiltonian with Arbitrary Interactions. In Quantum Reports  (Vol. 1, Issue 1, pp. 82–90). MDPI AG.  https://doi.org/10.3390/quantum1010009
+
+## Transformations of two-dimensional discrete fields
+
+* Urzúa, A. R., & Wolf, K. B. (2016). Unitary rotation and gyration of pixelated images on rectangular screens. In Journal of the Optical  Society of America A (Vol. 33, Issue 4, p. 642). The Optical Society.  https://doi.org/10.1364/josaa.33.000642
+* Urzúa, A. R., & Wolf, K. B. (2017). The U(2) Fourier group for  rectangular pixellated images. In Physical and Mathematical Aspects of  Symmetries (pp. 367–373). Springer International Publishing.  https://doi.org/10.1007/978-3-319-69164-0_55
+
+## Intrinsic decoherence in quantum systems
+
+* Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence dynamics in the three-coupled harmonic  oscillators interaction. http://arxiv.org/abs/2108.00353
 
