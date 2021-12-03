@@ -3,23 +3,14 @@
         <title>Alejandro R. Urzúa</title>
         <link>/</link>
         <description>Personal webpage</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 09 Oct 2021 00:00:00 &#43;0000</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 02 Dec 2021 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Platinum End - New anime review</title>
-    <link>/platinum-end-ep-1/</link>
-    <pubDate>Sat, 09 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <title>Dynamical invariant for the position-positon coupled harmonic oscillators</title>
+    <link>/f2invariant/</link>
+    <pubDate>Thu, 02 Dec 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/platinum-end-ep-1/</guid>
-    <description><![CDATA[What is it? It&rsquo;s a new show, adapted from the manga work by Tsugumi Ohba, that actually is finished as January 2021. The animation runs in charge of the spun studio of Production I.G, Signal.MD. The wikipedia page holds a neat description of the show, and some good resources to look at, also you can look the official website, although, it is in Japanese.
-The premise In a World, there exist a God, who seems to be tired, I don&rsquo;t know, but he is thinking in retirement on 999 days from now; so, the guardian angels are in charge to enroll the new God among the most pitiful humans they can find.]]></description>
-</item><item>
-    <title>Takt op. Destiny - New anime review</title>
-    <link>/takt-op.-ep-1/</link>
-    <pubDate>Fri, 08 Oct 2021 00:00:00 &#43;0000</pubDate>
-    <author>Author</author>
-    <guid>/takt-op.-ep-1/</guid>
-    <description><![CDATA[Opening art   What is it? Well, it is a new anime in development as a joint venture between Madhouse and Mappa animation studies. That&rsquo;s right, two of the most prolific and relevant animation houses of the late years &ndash; see Attack of Titan and Hunter X Hunter.
-Right to say that the fundamental development of the story is doing by Bandai and DeNA. Also it will have a mobile game version.]]></description>
+    <guid>/f2invariant/</guid>
+    <description><![CDATA[1. Introduction Recently I found a new very nice article about dynamical invariants by Kumar et al. [1], that is based on findings by Struckmeier and Riedel [2]. I been involved in the solution of time-dependent systems by means of orthogonal and Lewis-Ermakov invariants [3, 4] and I want to expand the understanding of this mathematical devices on systems who behave like damping phenomena. The methods they provide are interesting because of the generalization over the standard invariants.]]></description>
 </item></channel>
 </rss>
