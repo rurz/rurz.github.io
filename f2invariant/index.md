@@ -41,11 +41,11 @@ $$ f\_{2}(t) = \Gamma\left(\frac{3}{4}\right)^{2}\textrm{J}\_{-1/4}\left(\frac{t
 
 that shows a damping oscillatory behavior, as shown in the figure. It is worth to notice, that in this case of the Hamiltonian, the third-order differential equation for $f\_{2}(t)$ is independent of the explicit solution of the movement equation $q\_{i}(t)$.
 
-{{< figure src = /posts/science/images/ft.png >}}
+{{< figure src = /posts/science/images/ft.jpg >}}
 
 Now, if we also solve the movement equation for $q_{i}(t)$, we arrive to a damping oscillatory behavior as well, showing that the mean position of the individual oscillator are in a one and a halfway of the respective configuration space, and as a function of time, their amplitude of oscillation is decreasing after each period. The figure show the damping phenomena.
 
-{{< figure src = /posts/science/images/qi.png >}}
+{{< figure src = /posts/science/images/qi.jpg >}}
 
 ## 4. Conclusions
 
