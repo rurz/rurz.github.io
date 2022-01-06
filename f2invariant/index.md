@@ -57,4 +57,3 @@ _____
 
 [2] Struckmeier, J., & Riedel, C. (2000). Exact Invariants for a Class  of Three-Dimensional Time-Dependent Classical Hamiltonians. In Physical  Review Letters (Vol. 85, Issue 18, pp. 3830–3833). American Physical  Society (APS). https://doi.org/10.1103/physrevlett.85.3830
 
-
