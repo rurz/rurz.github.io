@@ -1,7 +1,7 @@
 # Gibbs-like oscillations in one-dimensional discrete signals
 
 
-## 1 Introduction: Continous signals
+## 1 Introduction: Continuous signals
 
 It is well known that a well suitable periodic one-dimensional signal (or function) $f(x)$ in $\mathcal{L}^{2}$ can be expanded and encoded in the coefficients of the Fourier series $f_{n}$ [1, pp.]
 

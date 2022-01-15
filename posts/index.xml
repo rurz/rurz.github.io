@@ -9,7 +9,7 @@
     <pubDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>/gibbs-phenomena-in-signals/</guid>
-    <description><![CDATA[1 Introduction: Continous signals It is well known that a well suitable periodic one-dimensional signal (or function) $f(x)$ in $\mathcal{L}^{2}$ can be expanded and encoded in the coefficients of the Fourier series $f_{n}$ [1, pp.]
+    <description><![CDATA[1 Introduction: Continuous signals It is well known that a well suitable periodic one-dimensional signal (or function) $f(x)$ in $\mathcal{L}^{2}$ can be expanded and encoded in the coefficients of the Fourier series $f_{n}$ [1, pp.]
 $$f_{n} = \left(2\pi\right)^{-1/2}\int_{-\pi}^{\pi}dx f(x)\exp\left(-\mathrm{i}nx\right),\qquad (1)$$
 that are used to reconstruct the original waveform $f(x)$ up to a $N$ degree,
 $$f(x) \equiv \left(2\pi\right)^{-1/2}\sum\limits_{n = 0}^{N - 1}f_{n}\exp\left(\mathrm{i}nx\right).\qquad (2)$$
