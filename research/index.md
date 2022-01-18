@@ -14,5 +14,6 @@
 
 ## Intrinsic decoherence in quantum systems
 
-* Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence dynamics in the three-coupled harmonic  oscillators interaction. http://arxiv.org/abs/2108.00353
+* Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence dynamics in the three-coupled harmonic  oscillators interaction. https://arxiv.org/abs/2108.00353
+* Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence for the displaced harmonic oscillator. https://arxiv.org/abs/2112.02756
 
