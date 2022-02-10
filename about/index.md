@@ -1,11 +1,20 @@
 # About me
 
 
-#### Hi, there! I'm gonna talk a little about, just the important things that make me a human having fun in life
+#### # Academic Formation
 
-Currently I'm enrolled as **_Associated Researcher_** in the **Optics Coordination** of the [_National Institute of Astrophysics, Optics and Electronics_](https://inaoep.mx). But, I been appointed as a **_Research Fellow_** at the **Theoretical Physics Department** of the [_Physical Sciences Institute_](https://www.fis.unam.mx) of the National Autonomus University of Mexico.
+* [2011] **Science Bachelor Degree** at the [_Universidad Autónoma del Estado de Morelos_](https://www.uaem.mx/) _(UAEM)_
+  * Thesis: [Phase space signal-analysis](http://dx.doi.org/10.13140/RG.2.1.3969.5122) (En español)
+* [2014] **Physical Sciences Master Degree** at the [_Universidad Nacional Autóma de México_](https://www.unam.mx/) _(UNAM)_
+  * Thesis: [Rotations and gyrations in rectangular Cartesian screens](http://dx.doi.org/10.13140/RG.2.1.2019.2887) (En español)
+* [2016] **Physics Doctorate Degree** at the [_Instituto Nacional de Astrofísica, Óptica y Electrónica_](https://www.inaoep.mx/) _(INAOE)_
+  * Thesis: [Analysis of time-dependent classical and quantum mechanical systems](http://dx.doi.org/10.13140/RG.2.1.2019.2887) (En español)
 
-I hold a Physical Sciences Master's Degree (2014) given by the _National Autonomus University of Mexico_, and a Doctorate in Physics (2016) given by the _National Institute of Astrophysics, Optics and Electronics_.
+#### # Current Roles
+
+* [2021 - ] **Postdoctoral Fellow** at [_Departamento de Física Teórica_](https://www.fis.unam.mx/areas/13/fisica-teorica-y-computacional), _UNAM_
+
+* [2020 - ] **Associated Researcher** at [_Coordinación de Óptica_](https://www-optica.inaoep.mx/), _INAOE_
 
 ---
 
