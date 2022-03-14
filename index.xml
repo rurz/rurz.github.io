@@ -11,9 +11,12 @@
     <pubDate>Sun, 13 Mar 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
     <guid>/preprint_polychromatic/</guid>
-    <description><![CDATA[We address the task to unitarily rotate stacked two-dimensional real matrices of dimension $N$ that resemble color channels of polychromatic pixellated images. Carefully understanding of digital artifacts arising from the discrete and finite nature of the transformation is done. We developed an understanding of the so-called Gibbs-like phenomena in finite two-dimensional signals.
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/notices/images/poly.jpg" referrerpolicy="no-referrer">
+            </div>Figure: The well-known Lena with $N = 52$ pixels, rotated consecutively by $\theta = \pi/4$. 
+We address the task to unitarily rotate stacked two-dimensional real matrices of dimension $N$ that resemble color channels of polychromatic pixellated images. Carefully understanding of digital artifacts arising from the discrete and finite nature of the transformation is done. We developed an understanding of the so-called Gibbs-like phenomena in finite two-dimensional signals.
 
-  Figure: The well-known Lena with $N = 52$ pixels, rotated consecutively by $\theta = \pi/4$.]]></description>
+  -- Preprint PDF at arXiv $\rightarrow$ https://arxiv.]]></description>
 </item><item>
     <title>Gibbs-like oscillations in one-dimensional discrete signals</title>
     <link>/gibbs-phenomena-in-signals/</link>
