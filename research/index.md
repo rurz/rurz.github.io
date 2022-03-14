@@ -11,6 +11,7 @@
 
 * Urzúa, A. R., & Wolf, K. B. (2016). Unitary rotation and gyration of pixelated images on rectangular screens. In Journal of the Optical  Society of America A (Vol. 33, Issue 4, p. 642). The Optical Society.  https://doi.org/10.1364/josaa.33.000642
 * Urzúa, A. R., & Wolf, K. B. (2017). The U(2) Fourier group for  rectangular pixellated images. In Physical and Mathematical Aspects of  Symmetries (pp. 367–373). Springer International Publishing.  https://doi.org/10.1007/978-3-319-69164-0_55
+* Urzúa, A. R., & Wolf, K. B. (2022). Unitary rotation of pixellated  polychromatic images (Version 1). arXiv.  https://doi.org/10.48550/ARXIV.2203.05715
 
 ## Intrinsic decoherence in quantum systems
 
