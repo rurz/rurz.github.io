@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Researches on Alejandro R. Urzúa</title>
-    <link>/research/</link>
+    <link>https://arurz.xyz/research/</link>
     <description>Recent content in Researches on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://arurz.xyz/research/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research Overview</title>
-      <link>/research/article_record/</link>
+      <link>https://arurz.xyz/research/article_record/</link>
       <pubDate>Fri, 08 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/research/article_record/</guid>
+      <guid>https://arurz.xyz/research/article_record/</guid>
       <description>Classical and quantum mechanics fundamentals  Urzúa, A. R., Ramos-Prieto, I., Soto-Eguibar, F., &amp;amp; Moya-Cessa, H. (2020). Dynamical analysis of mass–spring models using Lie algebraic methods. In Physica A: Statistical Mechanics and its Applications (Vol. 540, p. 123193). Elsevier BV. https://doi.org/10.1016/j.physa.2019.123193 Ramos-Prieto, I., Urzúa-Pineda, A. R., Soto-Eguibar, F., &amp;amp; Moya-Cessa, H. M. (2018). KvN mechanics approach to the time-dependent frequency harmonic oscillator. In Scientific Reports (Vol. 8, Issue 1). Springer Science and Business Media LLC.</description>
     </item>
     

@@ -1,14 +1,14 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All Posts - Alejandro R. Urzúa</title>
-        <link>/posts/</link>
+        <link>https://arurz.xyz/posts/</link>
         <description>All Posts | Alejandro R. Urzúa</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://arurz.xyz/posts/" rel="self" type="application/rss+xml" /><item>
     <title>[NEW PREPRINT] Unitary rotation of pixellated polychromatic images</title>
-    <link>/preprint_polychromatic/</link>
+    <link>https://arurz.xyz/preprint_polychromatic/</link>
     <pubDate>Sun, 13 Mar 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/preprint_polychromatic/</guid>
+    <guid>https://arurz.xyz/preprint_polychromatic/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/notices/images/poly.jpg" referrerpolicy="no-referrer">
             </div>Figure: The well-known Lena with $N = 52$ pixels, rotated consecutively by $\theta = \pi/4$. 
@@ -17,10 +17,10 @@ We address the task to unitarily rotate stacked two-dimensional real matrices of
   -- Preprint PDF at arXiv $\rightarrow$ https://arxiv.]]></description>
 </item><item>
     <title>Gibbs-like oscillations in one-dimensional discrete signals</title>
-    <link>/gibbs-phenomena-in-signals/</link>
+    <link>https://arurz.xyz/gibbs-phenomena-in-signals/</link>
     <pubDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/gibbs-phenomena-in-signals/</guid>
+    <guid>https://arurz.xyz/gibbs-phenomena-in-signals/</guid>
     <description><![CDATA[1 Introduction: Continuous signals It is well known that a well suitable periodic one-dimensional signal (or function) $f(x)$ in $\mathcal{L}^{2}$ can be expanded and encoded in the coefficients of the Fourier series $f_{n}$ [1, pp.]
 $$f_{n} = \left(2\pi\right)^{-1/2}\int_{-\pi}^{\pi}dx f(x)\exp\left(-\mathrm{i}nx\right),\qquad (1)$$
 that are used to reconstruct the original waveform $f(x)$ up to a $N$ degree,
@@ -28,10 +28,10 @@ $$f(x) \equiv \left(2\pi\right)^{-1/2}\sum\limits_{n = 0}^{N - 1}f_{n}\exp\left(
 The Gibbs phenomena is assigned to the behavior of the reconstructed signal under a truncation of the sum on $(2)$, at most $K &lt; N$.]]></description>
 </item><item>
     <title>Dynamical invariant for the position-positon coupled harmonic oscillators</title>
-    <link>/f2invariant/</link>
+    <link>https://arurz.xyz/f2invariant/</link>
     <pubDate>Thu, 02 Dec 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>/f2invariant/</guid>
+    <guid>https://arurz.xyz/f2invariant/</guid>
     <description><![CDATA[1. Introduction Recently I found a new very nice article about dynamical invariants by Kumar et al. [1], that is based on findings by Struckmeier and Riedel [2]. I been involved in the solution of time-dependent systems by means of orthogonal and Lewis-Ermakov invariants [3, 4] and I want to expand the understanding of this mathematical devices on systems who behave like damping phenomena. The methods they provide are interesting because of the generalization over the standard invariants.]]></description>
 </item></channel>
 </rss>
