@@ -1,9 +1,16 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>oss - Tag - Alejandro R. Urzúa</title>
-        <link>https://arurz.xyz/tags/oss/</link>
-        <description>oss - Tag - Alejandro R. Urzúa</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://arurz.xyz/tags/oss/" rel="self" type="application/rss+xml" /><item>
+        <title>All software - Alejandro R. Urzúa</title>
+        <link>https://arurz.xyz/software/</link>
+        <description>All software | Alejandro R. Urzúa</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://arurz.xyz/software/" rel="self" type="application/rss+xml" /><item>
+    <title>IntrinsicDecoherence</title>
+    <link>https://arurz.xyz/software/intrinsicdecoherence/</link>
+    <pubDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://arurz.xyz/software/intrinsicdecoherence/</guid>
+    <description><![CDATA[Introduction ]]></description>
+</item><item>
     <title>UnitRots: Unitary rotations of two-dimensional fields using the discrete and finite model of the su(2) oscillator.</title>
     <link>https://arurz.xyz/software/unitrots/</link>
     <pubDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</pubDate>
