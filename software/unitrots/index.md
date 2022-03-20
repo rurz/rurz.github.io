@@ -3,6 +3,8 @@
 
 ## Introduction
 
+[![UnitRots repository on Github](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rurz/UnitRots)
+
 `UnitRots`is a public repository containing the algorithms to transform (rotate) two-dimensional fields, aka. _pixellated images_. The implementation is done in [Julia language](https://julialang.org/). 
 
 This plain manual aims to describe the functions and outputs of the software source.
