@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>algorithms - Tag - Alejandro R. Urzúa</title>
+        <link>/tags/algorithms/</link>
+        <description>algorithms - Tag - Alejandro R. Urzúa</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/algorithms/" rel="self" type="application/rss+xml" /><item>
+    <title>Three-dimensional position-to-modes discrete mapping</title>
+    <link>/pos2mod/</link>
+    <pubDate>Thu, 24 Mar 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/pos2mod/</guid>
+    <description><![CDATA[Introduction On previous works [1, 2], we explore the map between position and mode basis for discrete two-dimensional fields, aka., pixellated images. The extension to the three-dimensional case is straightforward since the discrete and finite basis spawned by the Kravchuk functions $\psi_{n}^{(j)}(q)$ is complete and their composition to upper dimensions is the direct product of the individual basis,
+$$\begin{aligned}\Psi_{n_{1}, n_{2}, n_{3}}^{(j)}(q_{1}, q_{2}, q_{3}) &amp;= \psi_{n_{1}}^{(j)}(q_{1})\otimes\psi_{n_{2}}^{(j)}(q_{2})\otimes \psi_{n_{3}}^{(j)}(q_{3})\\ &amp;=: \langle q_{1}, q_{2}, q_{3}\vert n_{1}, n_{2}, n_{3}\rangle.]]></description>
+</item></channel>
+</rss>

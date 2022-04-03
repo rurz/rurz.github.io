@@ -1,14 +1,25 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>research - Tag - Alejandro R. Urzúa</title>
-        <link>https://arurz.xyz/tags/research/</link>
+        <link>/tags/research/</link>
         <description>research - Tag - Alejandro R. Urzúa</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 13 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://arurz.xyz/tags/research/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/research/" rel="self" type="application/rss+xml" /><item>
+    <title>Computation Methods on Quantum systems: Special Issue Submission Proposal</title>
+    <link>/mdpisi/</link>
+    <pubDate>Thu, 24 Mar 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/mdpisi/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/notices/images/banner.png" referrerpolicy="no-referrer">
+            </div>-- We invite to submit proposal for the new Special Issue on MDPI&rsquo;s Axioms Journal.
+The scope of the issue is to collect works around the mathematical, logical, and analytical methods of quantum systems. We encourage related research on true quantum systems, and hybrids. The topics of which we expect works are regarded, but not limited to,
+ Solutions on dynamical equations Time-dependent and independent systems Operational approaches to quantum, classical, and hybrid systems Algebraic structures Group theoretical methods Numerical and computational analysis  We encourage to send proposals to the Guest Editors or directly on the website of the special issue: http://mdpi.]]></description>
+</item><item>
     <title>[NEW PREPRINT] Unitary rotation of pixellated polychromatic images</title>
-    <link>https://arurz.xyz/preprint_polychromatic/</link>
+    <link>/preprint_polychromatic/</link>
     <pubDate>Sun, 13 Mar 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://arurz.xyz/preprint_polychromatic/</guid>
+    <guid>/preprint_polychromatic/</guid>
     <description><![CDATA[<div class="featured-image">
                 <img src="/posts/notices/images/poly.jpg" referrerpolicy="no-referrer">
             </div>Figure: The well-known Lena with $N = 52$ pixels, rotated consecutively by $\theta = \pi/4$. 

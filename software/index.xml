@@ -1,24 +1,24 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>All software - Alejandro R. Urzúa</title>
-        <link>https://arurz.xyz/software/</link>
+        <link>/software/</link>
         <description>All software | Alejandro R. Urzúa</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://arurz.xyz/software/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/software/" rel="self" type="application/rss+xml" /><item>
     <title>UnitRots: Unitary rotations of two-dimensional fields using the discrete and finite model of the su(2) oscillator.</title>
-    <link>https://arurz.xyz/software/unitrots/</link>
+    <link>/software/unitrots/</link>
     <pubDate>Fri, 18 Mar 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://arurz.xyz/software/unitrots/</guid>
+    <guid>/software/unitrots/</guid>
     <description><![CDATA[Introduction 
 UnitRotsis a public repository containing the algorithms to transform (rotate) two-dimensional fields, aka. pixellated images. The implementation is done in Julia language.
 This plain manual aims to describe the functions and outputs of the software source.
 Theoretical background  For a theoretical description of the transformation, go to the references within Research.   API ]]></description>
 </item><item>
     <title>IntrinsicDecoherence: Dynamical evolution of quantum mechanical systems</title>
-    <link>https://arurz.xyz/software/intrinsicdecoherence/</link>
+    <link>/software/intrinsicdecoherence/</link>
     <pubDate>Fri, 30 Jul 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://arurz.xyz/software/intrinsicdecoherence/</guid>
+    <guid>/software/intrinsicdecoherence/</guid>
     <description><![CDATA[Introduction 
 IntrinsicDecoherenceis a public repository containing the algorithmic implementation of the analytical foundations discovered about the dynamical evolution in quantum mechanical systems. The implementation is done in Julia language.
 This plain manual aims to describe the functions and outputs of the software source.

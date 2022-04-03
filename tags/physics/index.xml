@@ -1,14 +1,22 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>physics - Tag - Alejandro R. Urzúa</title>
-        <link>https://arurz.xyz/tags/physics/</link>
+        <link>/tags/physics/</link>
         <description>physics - Tag - Alejandro R. Urzúa</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://arurz.xyz/tags/physics/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 24 Mar 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="/tags/physics/" rel="self" type="application/rss+xml" /><item>
+    <title>Three-dimensional position-to-modes discrete mapping</title>
+    <link>/pos2mod/</link>
+    <pubDate>Thu, 24 Mar 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/pos2mod/</guid>
+    <description><![CDATA[Introduction On previous works [1, 2], we explore the map between position and mode basis for discrete two-dimensional fields, aka., pixellated images. The extension to the three-dimensional case is straightforward since the discrete and finite basis spawned by the Kravchuk functions $\psi_{n}^{(j)}(q)$ is complete and their composition to upper dimensions is the direct product of the individual basis,
+$$\begin{aligned}\Psi_{n_{1}, n_{2}, n_{3}}^{(j)}(q_{1}, q_{2}, q_{3}) &amp;= \psi_{n_{1}}^{(j)}(q_{1})\otimes\psi_{n_{2}}^{(j)}(q_{2})\otimes \psi_{n_{3}}^{(j)}(q_{3})\\ &amp;=: \langle q_{1}, q_{2}, q_{3}\vert n_{1}, n_{2}, n_{3}\rangle.]]></description>
+</item><item>
     <title>Gibbs-like oscillations in one-dimensional discrete signals</title>
-    <link>https://arurz.xyz/gibbs-phenomena-in-signals/</link>
+    <link>/gibbs-phenomena-in-signals/</link>
     <pubDate>Wed, 05 Jan 2022 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://arurz.xyz/gibbs-phenomena-in-signals/</guid>
+    <guid>/gibbs-phenomena-in-signals/</guid>
     <description><![CDATA[1 Introduction: Continuous signals It is well known that a well suitable periodic one-dimensional signal (or function) $f(x)$ in $\mathcal{L}^{2}$ can be expanded and encoded in the coefficients of the Fourier series $f_{n}$ [1, pp.]
 $$f_{n} = \left(2\pi\right)^{-1/2}\int_{-\pi}^{\pi}dx f(x)\exp\left(-\mathrm{i}nx\right),\qquad (1)$$
 that are used to reconstruct the original waveform $f(x)$ up to a $N$ degree,
@@ -16,10 +24,10 @@ $$f(x) \equiv \left(2\pi\right)^{-1/2}\sum\limits_{n = 0}^{N - 1}f_{n}\exp\left(
 The Gibbs phenomena is assigned to the behavior of the reconstructed signal under a truncation of the sum on $(2)$, at most $K &lt; N$.]]></description>
 </item><item>
     <title>Dynamical invariant for the position-positon coupled harmonic oscillators</title>
-    <link>https://arurz.xyz/f2invariant/</link>
+    <link>/f2invariant/</link>
     <pubDate>Thu, 02 Dec 2021 00:00:00 &#43;0000</pubDate>
     <author>Author</author>
-    <guid>https://arurz.xyz/f2invariant/</guid>
+    <guid>/f2invariant/</guid>
     <description><![CDATA[1. Introduction Recently I found a new very nice article about dynamical invariants by Kumar et al. [1], that is based on findings by Struckmeier and Riedel [2]. I been involved in the solution of time-dependent systems by means of orthogonal and Lewis-Ermakov invariants [3, 4] and I want to expand the understanding of this mathematical devices on systems who behave like damping phenomena. The methods they provide are interesting because of the generalization over the standard invariants.]]></description>
 </item></channel>
 </rss>
