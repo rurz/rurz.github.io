@@ -19,7 +19,7 @@ Related articles:
 
 * Urzúa, A. R., & Wolf, K. B. (2016). Unitary rotation and gyration of pixelated images on rectangular screens. In Journal of the Optical  Society of America A (Vol. 33, Issue 4, p. 642). The Optical Society.  https://doi.org/10.1364/josaa.33.000642
 * Urzúa, A. R., & Wolf, K. B. (2017). The U(2) Fourier group for  rectangular pixellated images. In Physical and Mathematical Aspects of  Symmetries (pp. 367–373). Springer International Publishing.  https://doi.org/10.1007/978-3-319-69164-0_55
-* Urzúa, A. R., & Wolf, K. B. (2022). Unitary rotation of pixellated  polychromatic images (Version 1). arXiv.  https://doi.org/10.48550/ARXIV.2203.05715
+* [Preprint] Urzúa, A. R., & Wolf, K. B. (2022). Unitary rotation of pixellated  polychromatic images (Version 1). arXiv.  https://doi.org/10.48550/ARXIV.2203.05715
 
 ## Intrinsic decoherence in quantum systems
 
@@ -27,6 +27,6 @@ Related articles:
 
 Related articles:
 
-* Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence dynamics in the three-coupled harmonic  oscillators interaction. https://arxiv.org/abs/2108.00353
-* Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence for the displaced harmonic oscillator. https://arxiv.org/abs/2112.02756
+* Urzúa, A. R., & Moya-Cessa, H. M. (2022). Intrinsic decoherence for  the displaced harmonic oscillator. In Pramana (Vol. 96, Issue 2).  Springer Science and Business Media LLC.  https://doi.org/10.1007/s12043-022-02319-w
+* [Preprint] Urzúa, A. R., & Moya-Cessa,  H. M.  (2021). Intrinsic decoherence dynamics in the three-coupled harmonic  oscillators interaction. https://arxiv.org/abs/2108.00353
 
