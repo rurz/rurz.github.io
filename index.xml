@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alejandro R. Urzúa</title>
-    <link>https://github.com/rurz/rurz.github.io/</link>
+    <link>/</link>
     <description>Recent content on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
-    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/rurz/rurz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intrinsic Decoherence</title>
-      <link>https://github.com/rurz/rurz.github.io/post/intrinsic/</link>
+      <link>/post/intrinsic/</link>
       <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rurz/rurz.github.io/post/intrinsic/</guid>
+      <guid>/post/intrinsic/</guid>
       <description>$$ \begin{equation} \hat{\rho}(t) = e^{-\gamma\,t}\sum\limits_{k = 0}^{\infty}\,\frac{\left(\gamma\,t\right)^{k}}{k!}\,\ket{\psi_{k}}\bra{\psi_{k}} \end{equation} $$</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://github.com/rurz/rurz.github.io/archives/</link>
+      <link>/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rurz/rurz.github.io/archives/</guid>
+      <guid>/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://github.com/rurz/rurz.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rurz/rurz.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
 https://github.com/yuin/goldmark https://github.</description>
@@ -39,10 +39,10 @@ https://github.com/yuin/goldmark https://github.</description>
     
     <item>
       <title>Contact</title>
-      <link>https://github.com/rurz/rurz.github.io/contact/</link>
+      <link>/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://github.com/rurz/rurz.github.io/contact/</guid>
+      <guid>/contact/</guid>
       <description> github.com/nanxiaobei lee.so </description>
     </item>
     
