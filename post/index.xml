@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Alejandro R. Urzúa</title>
+    <link>https://github.com/rurz/rurz.github.io/post/</link>
+    <description>Recent content in Posts on Alejandro R. Urzúa</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2008–2019, Steve Francia and the lee.so; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 28 Dec 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/rurz/rurz.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intrinsic Decoherence</title>
+      <link>https://github.com/rurz/rurz.github.io/post/intrinsic/</link>
+      <pubDate>Wed, 28 Dec 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/rurz/rurz.github.io/post/intrinsic/</guid>
+      <description>$$ \begin{equation} \hat{\rho}(t) = e^{-\gamma\,t}\sum\limits_{k = 0}^{\infty}\,\frac{\left(\gamma\,t\right)^{k}}{k!}\,\ket{\psi_{k}}\bra{\psi_{k}} \end{equation} $$</description>
+    </item>
+    
+  </channel>
+</rss>
