@@ -6,25 +6,29 @@
     <description>Recent content in Tags on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>blog</title>
+      <title>Blog</title>
       <link>/tags/blog/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/tags/blog/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>method
-</title>
+      <title>Method</title>
       <link>/tags/method/</link>
-      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
       <guid>/tags/method/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>Method
+</title>
+      <link>/tags/method/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>/tags/method/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

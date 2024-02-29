@@ -6,42 +6,42 @@
     <description>Recent content on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Quantum Decoherence</title>
       <link>/projects/decoherence/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/projects/decoherence/</guid>
       <description>Decoherence is a process where a system change their description from a mathematical scheme to another</description>
     </item>
-    
     <item>
       <title>Quantum Optomechanics</title>
       <link>/projects/omechanics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/projects/omechanics/</guid>
       <description>Optomechanical systems bring the opportunity to explore the interaction between the microscopic and macroscopic</description>
     </item>
-    
     <item>
       <title>Quantum Fundamentals</title>
       <link>/projects/foundations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/projects/foundations/</guid>
       <description>There still exists some question about how the fundamental quantum systems behaves</description>
     </item>
-    
+    <item>
+      <title>Eberly-Wódkiewicz spectrum for the _f_-deformed quantum oscillator</title>
+      <link>/blog/ew_defosc/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/ew_defosc/</guid>
+      <description> Introduction $$ \begin{equation} \hat{H} = \frac{\omega_{c}}{2}\left(\hat{A}^{\dagger}\hat{A} + \hat{A}\hat{A}^{\dagger}\right) \end{equation} $$&#xA;with $\hat{A} = \hat{a} f(\hat{n})$.&#xA;Correlation function Spectrum </description>
+    </item>
     <item>
       <title>Linearizing a quadratric Hamiltonian using squeezing transformation</title>
       <link>/blog/julia_tdh/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>/blog/julia_tdh/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

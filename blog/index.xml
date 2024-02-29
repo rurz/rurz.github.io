@@ -6,15 +6,21 @@
     <description>Recent content in Blog on Alejandro R. Urzúa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Eberly-Wódkiewicz spectrum for the _f_-deformed quantum oscillator</title>
+      <link>/blog/ew_defosc/</link>
+      <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>/blog/ew_defosc/</guid>
+      <description> Introduction $$ \begin{equation} \hat{H} = \frac{\omega_{c}}{2}\left(\hat{A}^{\dagger}\hat{A} + \hat{A}\hat{A}^{\dagger}\right) \end{equation} $$&#xA;with $\hat{A} = \hat{a} f(\hat{n})$.&#xA;Correlation function Spectrum </description>
+    </item>
     <item>
       <title>Linearizing a quadratric Hamiltonian using squeezing transformation</title>
       <link>/blog/julia_tdh/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      
       <guid>/blog/julia_tdh/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
